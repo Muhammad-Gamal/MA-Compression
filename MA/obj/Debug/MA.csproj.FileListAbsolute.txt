@@ -1,0 +1,55 @@
+E:\Bio-4\projects\MA\MA\bin\Debug\MA.exe.config
+E:\Bio-4\projects\MA\MA\bin\Debug\MA.exe
+E:\Bio-4\projects\MA\MA\bin\Debug\MA.pdb
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.csprojResolveAssemblyReference.cache
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.Form1.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.Properties.Resources.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.csproj.GenerateResource.Cache
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.exe
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.pdb
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.rlc.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.vlc.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.lzw.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.ad.resources
+E:\Bio-4\projects\MA\MA\obj\Debug\MA.hf.resources
+F:\!الأخيرة ممكن\MA\MA\bin\Debug\MA.exe.config
+F:\!الأخيرة ممكن\MA\MA\bin\Debug\MA.exe
+F:\!الأخيرة ممكن\MA\MA\bin\Debug\MA.pdb
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.csproj.AssemblyReference.cache
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.ad.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.Form1.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.hf.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.lzw.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.Properties.Resources.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.rlc.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.vlc.resources
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.csproj.GenerateResource.cache
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.csproj.CoreCompileInputs.cache
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.exe
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.pdb
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.data_show.resources
+F:\!الأخيرة ممكن\MA\MA\bin\Debug\MA.exe.manifest
+F:\!الأخيرة ممكن\MA\MA\bin\Debug\MA.application
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.exe.manifest
+F:\!الأخيرة ممكن\MA\MA\obj\Debug\MA.application
+F:\!الأخيرة ممكن - Copy\MA\MA\bin\Debug\MA.exe.config
+F:\!الأخيرة ممكن - Copy\MA\MA\bin\Debug\MA.exe.manifest
+F:\!الأخيرة ممكن - Copy\MA\MA\bin\Debug\MA.application
+F:\!الأخيرة ممكن - Copy\MA\MA\bin\Debug\MA.exe
+F:\!الأخيرة ممكن - Copy\MA\MA\bin\Debug\MA.pdb
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.csproj.AssemblyReference.cache
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.ad.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.data_show.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.Form1.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.hf.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.lzw.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.Properties.Resources.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.rlc.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.vlc.resources
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.csproj.GenerateResource.cache
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.csproj.CoreCompileInputs.cache
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.exe.manifest
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.application
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.exe
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.pdb
+F:\!الأخيرة ممكن - Copy\MA\MA\obj\Debug\MA.landpage.resources
